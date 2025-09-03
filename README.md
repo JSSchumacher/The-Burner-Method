@@ -1,31 +1,44 @@
 <p align="center" href="https://github.com/JSSchumacher/joshuaschumacher.com">
-  <img width="300" src="https://github.com/JSSchumacher/SCHEMA/blob/main/images/SCHEMA%203x1.png?raw=true" />
+  <img width="300" src="https://github.com/JSSchumacher/The-Burner-Method/blob/main/images/TBM_logo.png?raw=true" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/SCHEMA">
-  <img align="center" src="https://img.shields.io/github/license/JSSchumacher/SCHEMA">
-  <img align="center" src="https://img.shields.io/github/last-commit/JSSchumacher/SCHEMA">
+  <img align="center" src="https://img.shields.io/github/package-json/v/JSSchumacher/The-Burner-Method">
+  <img align="center" src="https://img.shields.io/github/license/JSSchumacher/The-Burner-Method">
+  <img align="center" src="https://img.shields.io/github/last-commit/JSSchumacher/The-Burner-Method">
 </p>
 
-# SCHEMA
-### Name
-**SCHEMA** - **S**chumacher **C**ontent **H**ierarchical **E**ncoding & **M**anagement **A**rchitecture
+# The Burner Method
 
 ### Description
-Custom file identification and organizational system designed to provide structured, human-readable, and context-aware file IDs for documents, ensuring clarity, traceability, and long-term maintainability. It incorporates metadata into the filename itself, making files self-descriptive even outside of a managed environment.
+The Burner Method is a lightweight project management framework built around the metaphor of a stovetop. It provides a simple yet powerful way to prioritize, track, and manage projects by assigning them to “burners” that represent focus, urgency, and resource allocation.
 
-SCHEMA is a modular metadata architecture designed to unify how digital content is **named, versioned, archived, and formatted**. It provides a durable foundation for long-term personal projects, codebases, documentation, and archival systems.
+### Core Concept
+Projects are categorized across four burners:
+1. Primary Front Burner (PFB) – Singular daily focus (1/1 slot).
+2. Secondary Front Burner (SFB) – Weekly/Monthly active projects (up to 4 slots).
+3. Active Back Burner (ABB) – All other active projects (infinite).
+4. Dormant Back Burner (DBB) – Paused, scrapped, or archived projects.
+
+### Features
+1. Heat Levels (HL): Adjust intensity of attention (Low → Max).
+2. Time on Burner (ToB): Track how long projects have occupied a burner, helping prevent stagnation and burnout.
+3. Fuel Source (FS): Manage resources—Time, Energy, Capital, and People—as the “fuel” that powers burners.
+
+### System Dynamics:
+1. Promotion/Demotion Cycle (projects move between burners).
+2. Fuel Budgeting (ensures sustainable allocation).
+3. Burnout Guard (alerts when demand exceeds supply).
 
 ## What Inspired The Project
-I have always been overly organized. This is actually probably the third or fourth version of this (under different names). But it is just something that I can use to better organize my files, and now I can keep up with the structing easier with GitHub versions.
+I (as everything on my GitHub shows) love to orgianze things to better help me with projects. The Burner Method or TBM is a system that I invented back in 2023 and then later in 2025 started to digitize like the rest of my projects. TBM is meant to help me with three things; 1. Manage what projects I am currently working on, 2. Prevent burnout on a project, and 3. Keep track of all of my projects. Along with other stuff of course.
 
 ## Credits
-- [Xeon](https://github.com/JSSchumacher) - Founder, Lead Developer *(Joined The SCHEMA Project on <ins>06/26/2025</ins>)*
+- [Xeon](https://github.com/JSSchumacher) - Founder, Lead Developer *(Joined The Burner Method Project on <ins>09/02/2025</ins>)*
 
 ## Disclaimer
 
-SCHEMA (Schumacher Content Hierarchical Encoding & Management Architecture) is a proprietary file identification and organization system developed solely by [Joshua Schumacher](https://www.joshuaschumacher.com). It is not affiliated with, endorsed by, or associated with any organization, institution, or third party. All concepts, naming conventions, and structural formats are the intellectual creation of [Joshua Schumacher](https://www.joshuaschumacher.com).
+TBM (The Burner Method or Burner Method) is a proprietary project tracking and organization system developed solely by [Joshua Schumacher](https://www.joshuaschumacher.com). It is not affiliated with, endorsed by, or associated with any organization, institution, or third party. All concepts, naming conventions, and structural formats are the intellectual creation of [Joshua Schumacher](https://www.joshuaschumacher.com).
 
 <p align="center" href="https:/https://github.com/JSSchumacher"> 
   <img width="300" src="https://raw.githubusercontent.com/JSSchumacher/JSS-Embeds/main/Images/Xeon/Transparent/Word/XEON%20Outline.png" />

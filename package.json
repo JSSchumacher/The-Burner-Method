@@ -1,7 +1,7 @@
 {
-    "name": "schema",
-    "version": "1.0.1",
-    "description": "SCHEMA - Schumacher Content Hierarchical Encoding & Management Architecture",
+    "name": "the-burner-method",
+    "version": "0.0.0",
+    "description": "lightweight project management framework built around the metaphor of a stovetop",
     "author": {
     "name": "Joshua Schumacher",
     "email": "contact@joshuaschumacher.com",
